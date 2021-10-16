@@ -1,0 +1,25 @@
+{
+  "item.marysminerals.copper_ingot": "Copper Ingot",
+  "item.marysminerals.tin_ingot": "Tin Ingot",
+  "item.marysminerals.blastium_ingot": "Blastium Ingot",
+
+  "item.marysminerals.ruby": "Ruby",
+  "item.marysminerals.sapphire": "Sapphire",
+  "item.marysminerals.emerald": "Emerald",
+
+  "block.marysminerals.ruby_ore": "Ruby Ore",
+  "block.marysminerals.copper_ore": "Copper Ore",
+
+  "block.marysminerals.copper_block": "Block of Copper",
+  "block.marysminerals.blastium_block": "Block of Blastium",
+
+  "item.marysminerals.stonecutter": "Stonecutter",
+
+  "item.marysminerals.copper_shovel": "Copper Shovel",
+  "item.marysminerals.copper_pickaxe": "Copper Pickaxe",
+  "item.marysminerals.copper_axe": "Copper Axe",
+
+  "item.marysminerals.copper_helmet": "Copper Helmet",
+
+  "itemGroup.marysTab": "Mary's Minerals"
+}

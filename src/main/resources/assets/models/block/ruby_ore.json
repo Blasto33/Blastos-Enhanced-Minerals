@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "marysminerals:block/ruby_ore"
+  }
+}

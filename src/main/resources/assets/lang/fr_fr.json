@@ -1,0 +1,11 @@
+{
+  "item.marysminerals.copper_ingot": "Lingot de Cuivre",
+  "item.marysminerals.tin_ingot": "Lingot d'Étain",
+  "item.marysminerals.ruby": "Rubis",
+
+  "block.marysminerals.ruby_ore": "Minerai de Rubis",
+  "block.marysminerals.copper_ore": "Copper Ore",
+  "block.marysminerals.copper_block": "Block of Copper",
+
+  "itemGroup.marysTab": "Mary's Minerals"
+}

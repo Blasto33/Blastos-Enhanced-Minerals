@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+          [
+            {
+              "item":  "marysminerals:stonecutter"
+            },
+            {
+              "item":  "marysminerals:ruby_ore"
+            }
+          ],
+  "result":
+  {
+    "item": "marysminerals:ruby",
+    "count": 1
+  }
+}
